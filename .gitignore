@@ -1,0 +1,8 @@
+.env
+campaigns.sqlite
+generated/
+exports/
+__pycache__/
+*.pyc
+.venv/
+venv/
